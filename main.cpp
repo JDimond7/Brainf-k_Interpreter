@@ -13,7 +13,6 @@
  
 #include<iostream>
 #include<string>
-#include<vector>
 using namespace std;
 
 void interpret(string prog, char* ptr){
